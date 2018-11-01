@@ -113,7 +113,7 @@ public class VarastoTest {
     }
     @Test
     public void toStringToimii() {
-        String oikein = "saldo = "+ varasto.getSaldo() + ", vielä tilaa " + varasto.paljonkoMahtuu();
+        String oikein = "saldo = "+ varasto.getSaldo() + ", vielä tilaa " + 5 +varasto.paljonkoMahtuu();
         assertEquals(oikein,varasto.toString());
     }
 
