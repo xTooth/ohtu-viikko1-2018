@@ -29,4 +29,11 @@ dependencies {
 
 // Define the main class for the application
 mainClassName = 'ohtu.ohtuvarasto.Main'
-
+// add jacoco test suite
+apply plugin: "jacoco"
+//create jar
+jar{
+	manifest{
+		attributes 'Main-Class': 'ohtu.ohtuvarasto.Main'
+	}
+}
