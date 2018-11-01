@@ -104,6 +104,7 @@ public class VarastoTest {
         varasto.lisaaVarastoon(100);
         assertEquals(10,varasto.getSaldo(),vertailuTarkkuus);
     }
+    //top meme pointless row of comments for task 11.
     @Test
     public void VarastoTyhjeneeOikein() {
         double saldoEnnen = varasto.getSaldo();
