@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ohtuvarasto1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/distributions/ohtuvarasto.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
