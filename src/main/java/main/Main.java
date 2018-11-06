@@ -5,7 +5,24 @@ import ohtu.ohtuvarasto.Varasto;
 public class Main {
 
     public static void main(String[] args) {
+    }   
+     /*   if(true){
+            if(true){
+                System.out.println("memes");
+                if(true){
+                    System.out.println("more memes");
+                }
+            }
 
+        }
+        for(int i = 0; i<5; i++){
+            for( int j  = 0; j<7;j++)
+            {
+                        System.out.println("kek");
+            }
+        }
+
+            
         Varasto mehua = new Varasto(100.0);
         Varasto olutta = new Varasto(100.0, 20.2);
 
@@ -56,5 +73,5 @@ public class Main {
         saatiin = mehua.otaVarastosta(-32.9);
         System.out.println("saatiin " + saatiin);
         System.out.println("Mehuvarasto: " + mehua);
-    }
+    */
 }
