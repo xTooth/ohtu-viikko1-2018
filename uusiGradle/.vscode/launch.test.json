@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "uusiGradle",
+                "projectName": "uusiGradle",
+                "workingDirectory": "/Users/tooth/Documents/Ohtu/ohtu-viikko1-2018/uusiGradle",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "uusiGradle",
+                "projectName": "uusiGradle",
+                "workingDirectory": "/Users/tooth/Documents/Ohtu/ohtu-viikko1-2018/uusiGradle",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
